@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>MMC School</title>
+</head>
+
+<body>
+    <h1>Jestem mocarnym naglowkiem!</h1>
+    <p>To moja pierwsza strona internetowa!</p>
+    <h6>Najmniejszy naglowek...</h6>
+    <p><strong>Alez czuje sie pogrubiony semantycznie!</strong></p>
+    <br>
+    <a href="https://www.google.com" target="_blank">Google</a>
+    <button>Jestem przyciskiem</button>
+    <ul>
+        <li>Element nr 1</li>
+        <li>Element nr 2</li>
+        <li>Element nr 3</li>
+        <li>Element nr 4</li>
+        <li>Element nr 5</li>
+    </ul>
+    <img src="https://cdn.pixabay.com/photo/2016/11/22/07/26/indiana-dunes-state-park-1848559_960_720.jpg" alt="plaza">
+</body>
+
+
+</html>
